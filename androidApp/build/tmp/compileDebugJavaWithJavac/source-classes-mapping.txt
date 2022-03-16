@@ -1,0 +1,6 @@
+com/example/kmmshared/android/BuildConfig.java
+ com.example.kmmshared.android.BuildConfig
+com/example/kmmshared/android/databinding/FragmentJokeBinding.java
+ com.example.kmmshared.android.databinding.FragmentJokeBinding
+com/example/kmmshared/android/databinding/ActivityMainBinding.java
+ com.example.kmmshared.android.databinding.ActivityMainBinding

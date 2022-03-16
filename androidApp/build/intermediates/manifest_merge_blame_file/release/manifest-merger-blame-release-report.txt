@@ -1,0 +1,69 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.vectorform.kmmshared.android"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="25"
+8-->/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:7:5-20:19
+14        android:allowBackup="false"
+14-->/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:8:9-36
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.7.0] /Users/kdamore/.gradle/caches/transforms-3/3c23238f2f2134bee326ae9b87ac1a58/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+16        android:extractNativeLibs="false"
+17        android:supportsRtl="true"
+17-->/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:9:9-35
+18        android:theme="@style/AppTheme" >
+18-->/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:10:9-40
+19        <activity
+19-->/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:12:9-19:20
+20            android:name="com.example.kmmshared.android.MainActivity"
+20-->/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:13:13-70
+21            android:exported="true" >
+21-->/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:14:13-36
+22            <intent-filter>
+22-->/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:15:13-18:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:16:17-69
+23-->/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:16:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:17:17-77
+25-->/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:17:27-74
+26            </intent-filter>
+27        </activity>
+28
+29        <provider
+29-->[androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+30            android:name="androidx.startup.InitializationProvider"
+30-->[androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+31            android:authorities="com.vectorform.kmmshared.android.androidx-startup"
+31-->[androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+32            android:exported="false" >
+32-->[androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+33            <meta-data
+33-->[androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+34                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+34-->[androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+35                android:value="androidx.startup" />
+35-->[androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+36            <meta-data
+36-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdamore/.gradle/caches/transforms-3/9d0b0f0fcd0b8e3d21d703fd5c9ccf58/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+37                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+37-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdamore/.gradle/caches/transforms-3/9d0b0f0fcd0b8e3d21d703fd5c9ccf58/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+38                android:value="androidx.startup" />
+38-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdamore/.gradle/caches/transforms-3/9d0b0f0fcd0b8e3d21d703fd5c9ccf58/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+39        </provider>
+40    </application>
+41
+42</manifest>

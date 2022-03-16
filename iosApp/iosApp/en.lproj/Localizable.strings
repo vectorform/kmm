@@ -1,0 +1,9 @@
+/* 
+  Strings.strings
+  iosApp
+
+  Created by Kevin Damore on 2/4/22.
+  Copyright © 2022 orgName. All rights reserved.
+*/
+
+"test_string" = "Test string from iOS";

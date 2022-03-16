@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fragment_joke.xml",
+        "source": "/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/res/layout/fragment_joke.xml"
+    },
+    {
+        "merged": "/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/res/layout/activity_main.xml"
+    }
+]

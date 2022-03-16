@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "05a3191a64901ae341c4fc516a583340561f62ec0ce8ff135de04cb8392bb41a"
+build_start_time: [1647452823, 415350914]
+build_end_time: [1647452824, 119760990]
+inputs:
+  "/Users/kdamore/Documents/KMM/vectorform_kmm/iosApp/iosApp/AppDelegate.swift": [1647444436, 224391937]
+  "/Users/kdamore/Documents/KMM/vectorform_kmm/iosApp/iosApp/UI/Joke/JokeViewController.swift": [1647452376, 429279565]

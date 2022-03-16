@@ -1,0 +1,6 @@
+framework module iOSX_shared {
+    umbrella header "iOSX_shared.h"
+
+    export *
+    module * { export * }
+}

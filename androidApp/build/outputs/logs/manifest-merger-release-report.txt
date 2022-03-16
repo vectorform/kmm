@@ -1,0 +1,230 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.databinding:viewbinding:7.0.4] /Users/kdamore/.gradle/caches/transforms-3/7bd9dd75919aa5d91aedfec8121be15c/transformed/viewbinding-7.0.4/AndroidManifest.xml:17:1-22:12
+MERGED from [:shared] /Users/kdamore/Documents/KMM/vectorform_kmm/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.5.0] /Users/kdamore/.gradle/caches/transforms-3/75089c3a69cf41a539466d3e5513f7ac/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/kdamore/.gradle/caches/transforms-3/8290b54f96153cf70b870359d0881ef9/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/kdamore/.gradle/caches/transforms-3/e2afe1b0e1d8bd4bc042209ea128b4b6/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/1923ace28c8e8e1c539d8af071fa5fc5/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/d484ced1fe7c637a817a7638d6e5ec29/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kdamore/.gradle/caches/transforms-3/10897803c1f5b46f8836abd2c4d9f878/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/kdamore/.gradle/caches/transforms-3/17be98da60eebcaaabb1fbb0ac970d82/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/kdamore/.gradle/caches/transforms-3/dac187b19f89fae2d048b7fddceae9f2/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/31b9069ab22316a1fdb7dc73ff9b7f44/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/0d965101274d0c4a12b6d7914582d797/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/70c8505a11591e39867419d982c8e773/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/6b2ee0d6a68162803fbd5c740c784ffa/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kdamore/.gradle/caches/transforms-3/2569a1bfed07e9f40de89fdf6387df07/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/kdamore/.gradle/caches/transforms-3/36eecd9251518c794de573d0bbe0ca77/transformed/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/0f05f1e7992b5ea77e2a288733b268cf/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/a9946d0024771d942d7f12ed7aea1ea7/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/6fb2f4c8ef2ec0959e49f88841e76d45/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/ddfda1eda1d61551e1d7a31136c35097/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/1206efb75c04880f9911140ab858d068/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/c0a2813063cc5cf57225ebc72104b142/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/kdamore/.gradle/caches/transforms-3/3c23238f2f2134bee326ae9b87ac1a58/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/0c9eb751d2b2a5f15e4d35d3b023f57d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/kdamore/.gradle/caches/transforms-3/fa6ff28498263a6ec5381fc3c8c8c890/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/d2d070f5a99be055eb3a549d15f4cead/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/kdamore/.gradle/caches/transforms-3/9bc0858346d435eacb8340a83ce95eac/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kdamore/.gradle/caches/transforms-3/3716d7cb70528645c387d6ec0bc1f530/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kdamore/.gradle/caches/transforms-3/8639bf1662fa93c10123537bfe7a5a9c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/kdamore/.gradle/caches/transforms-3/e1869c7d5a5e95215f112d0411fb5dbe/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdamore/.gradle/caches/transforms-3/9d0b0f0fcd0b8e3d21d703fd5c9ccf58/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/kdamore/.gradle/caches/transforms-3/4502b1b3039a79d5a625b0d8d6ab4870/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kdamore/.gradle/caches/transforms-3/0a4c62642cf4f9da9e6639b8955d456d/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/fbfec400390eb1c1b1fb1c0c18784cdb/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/73f2f0dad9c433bfc95389eaad33c5b0/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/ae6c9b2d2bb0c88666cad8dcb7c640f1/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/9e8a887ccee69840dbd3f46b0fe60867/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/a1176e0dc60074f099502e3bbf74b2c7/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/9a3e26b04e04da760d436062ddf0122b/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/ad6ba3de7957e39cde86d7770fe0a23a/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:7:5-20:19
+MERGED from [com.google.android.material:material:1.5.0] /Users/kdamore/.gradle/caches/transforms-3/75089c3a69cf41a539466d3e5513f7ac/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /Users/kdamore/.gradle/caches/transforms-3/75089c3a69cf41a539466d3e5513f7ac/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/kdamore/.gradle/caches/transforms-3/8290b54f96153cf70b870359d0881ef9/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/kdamore/.gradle/caches/transforms-3/8290b54f96153cf70b870359d0881ef9/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/kdamore/.gradle/caches/transforms-3/3c23238f2f2134bee326ae9b87ac1a58/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/kdamore/.gradle/caches/transforms-3/3c23238f2f2134bee326ae9b87ac1a58/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kdamore/.gradle/caches/transforms-3/3716d7cb70528645c387d6ec0bc1f530/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kdamore/.gradle/caches/transforms-3/3716d7cb70528645c387d6ec0bc1f530/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdamore/.gradle/caches/transforms-3/9d0b0f0fcd0b8e3d21d703fd5c9ccf58/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdamore/.gradle/caches/transforms-3/9d0b0f0fcd0b8e3d21d703fd5c9ccf58/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/fbfec400390eb1c1b1fb1c0c18784cdb/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/fbfec400390eb1c1b1fb1c0c18784cdb/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/kdamore/.gradle/caches/transforms-3/3c23238f2f2134bee326ae9b87ac1a58/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:8:9-36
+	android:theme
+		ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.kmmshared.android.MainActivity
+ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:12:9-19:20
+	android:exported
+		ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:13:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.4] /Users/kdamore/.gradle/caches/transforms-3/7bd9dd75919aa5d91aedfec8121be15c/transformed/viewbinding-7.0.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.4] /Users/kdamore/.gradle/caches/transforms-3/7bd9dd75919aa5d91aedfec8121be15c/transformed/viewbinding-7.0.4/AndroidManifest.xml:20:5-44
+MERGED from [:shared] /Users/kdamore/Documents/KMM/vectorform_kmm/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared] /Users/kdamore/Documents/KMM/vectorform_kmm/shared/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.5.0] /Users/kdamore/.gradle/caches/transforms-3/75089c3a69cf41a539466d3e5513f7ac/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /Users/kdamore/.gradle/caches/transforms-3/75089c3a69cf41a539466d3e5513f7ac/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/kdamore/.gradle/caches/transforms-3/8290b54f96153cf70b870359d0881ef9/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/kdamore/.gradle/caches/transforms-3/8290b54f96153cf70b870359d0881ef9/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/kdamore/.gradle/caches/transforms-3/e2afe1b0e1d8bd4bc042209ea128b4b6/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/kdamore/.gradle/caches/transforms-3/e2afe1b0e1d8bd4bc042209ea128b4b6/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/1923ace28c8e8e1c539d8af071fa5fc5/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/1923ace28c8e8e1c539d8af071fa5fc5/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/d484ced1fe7c637a817a7638d6e5ec29/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/d484ced1fe7c637a817a7638d6e5ec29/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kdamore/.gradle/caches/transforms-3/10897803c1f5b46f8836abd2c4d9f878/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kdamore/.gradle/caches/transforms-3/10897803c1f5b46f8836abd2c4d9f878/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kdamore/.gradle/caches/transforms-3/17be98da60eebcaaabb1fbb0ac970d82/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kdamore/.gradle/caches/transforms-3/17be98da60eebcaaabb1fbb0ac970d82/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/kdamore/.gradle/caches/transforms-3/dac187b19f89fae2d048b7fddceae9f2/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/kdamore/.gradle/caches/transforms-3/dac187b19f89fae2d048b7fddceae9f2/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/31b9069ab22316a1fdb7dc73ff9b7f44/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/31b9069ab22316a1fdb7dc73ff9b7f44/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/0d965101274d0c4a12b6d7914582d797/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/0d965101274d0c4a12b6d7914582d797/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/70c8505a11591e39867419d982c8e773/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/70c8505a11591e39867419d982c8e773/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/6b2ee0d6a68162803fbd5c740c784ffa/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/6b2ee0d6a68162803fbd5c740c784ffa/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kdamore/.gradle/caches/transforms-3/2569a1bfed07e9f40de89fdf6387df07/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kdamore/.gradle/caches/transforms-3/2569a1bfed07e9f40de89fdf6387df07/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/kdamore/.gradle/caches/transforms-3/36eecd9251518c794de573d0bbe0ca77/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/kdamore/.gradle/caches/transforms-3/36eecd9251518c794de573d0bbe0ca77/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/0f05f1e7992b5ea77e2a288733b268cf/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/0f05f1e7992b5ea77e2a288733b268cf/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/a9946d0024771d942d7f12ed7aea1ea7/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/a9946d0024771d942d7f12ed7aea1ea7/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/6fb2f4c8ef2ec0959e49f88841e76d45/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/6fb2f4c8ef2ec0959e49f88841e76d45/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/ddfda1eda1d61551e1d7a31136c35097/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/ddfda1eda1d61551e1d7a31136c35097/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/1206efb75c04880f9911140ab858d068/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/1206efb75c04880f9911140ab858d068/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/c0a2813063cc5cf57225ebc72104b142/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/c0a2813063cc5cf57225ebc72104b142/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/kdamore/.gradle/caches/transforms-3/3c23238f2f2134bee326ae9b87ac1a58/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/kdamore/.gradle/caches/transforms-3/3c23238f2f2134bee326ae9b87ac1a58/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/0c9eb751d2b2a5f15e4d35d3b023f57d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/0c9eb751d2b2a5f15e4d35d3b023f57d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/kdamore/.gradle/caches/transforms-3/fa6ff28498263a6ec5381fc3c8c8c890/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/kdamore/.gradle/caches/transforms-3/fa6ff28498263a6ec5381fc3c8c8c890/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/d2d070f5a99be055eb3a549d15f4cead/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/d2d070f5a99be055eb3a549d15f4cead/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/kdamore/.gradle/caches/transforms-3/9bc0858346d435eacb8340a83ce95eac/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/kdamore/.gradle/caches/transforms-3/9bc0858346d435eacb8340a83ce95eac/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kdamore/.gradle/caches/transforms-3/3716d7cb70528645c387d6ec0bc1f530/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kdamore/.gradle/caches/transforms-3/3716d7cb70528645c387d6ec0bc1f530/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kdamore/.gradle/caches/transforms-3/8639bf1662fa93c10123537bfe7a5a9c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kdamore/.gradle/caches/transforms-3/8639bf1662fa93c10123537bfe7a5a9c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/kdamore/.gradle/caches/transforms-3/e1869c7d5a5e95215f112d0411fb5dbe/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/kdamore/.gradle/caches/transforms-3/e1869c7d5a5e95215f112d0411fb5dbe/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdamore/.gradle/caches/transforms-3/9d0b0f0fcd0b8e3d21d703fd5c9ccf58/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdamore/.gradle/caches/transforms-3/9d0b0f0fcd0b8e3d21d703fd5c9ccf58/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/kdamore/.gradle/caches/transforms-3/4502b1b3039a79d5a625b0d8d6ab4870/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/kdamore/.gradle/caches/transforms-3/4502b1b3039a79d5a625b0d8d6ab4870/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kdamore/.gradle/caches/transforms-3/0a4c62642cf4f9da9e6639b8955d456d/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kdamore/.gradle/caches/transforms-3/0a4c62642cf4f9da9e6639b8955d456d/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/fbfec400390eb1c1b1fb1c0c18784cdb/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/fbfec400390eb1c1b1fb1c0c18784cdb/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/73f2f0dad9c433bfc95389eaad33c5b0/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/73f2f0dad9c433bfc95389eaad33c5b0/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/ae6c9b2d2bb0c88666cad8dcb7c640f1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/ae6c9b2d2bb0c88666cad8dcb7c640f1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/9e8a887ccee69840dbd3f46b0fe60867/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/9e8a887ccee69840dbd3f46b0fe60867/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/a1176e0dc60074f099502e3bbf74b2c7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/a1176e0dc60074f099502e3bbf74b2c7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/9a3e26b04e04da760d436062ddf0122b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/9a3e26b04e04da760d436062ddf0122b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/ad6ba3de7957e39cde86d7770fe0a23a/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kdamore/.gradle/caches/transforms-3/ad6ba3de7957e39cde86d7770fe0a23a/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdamore/.gradle/caches/transforms-3/9d0b0f0fcd0b8e3d21d703fd5c9ccf58/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdamore/.gradle/caches/transforms-3/9d0b0f0fcd0b8e3d21d703fd5c9ccf58/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/fbfec400390eb1c1b1fb1c0c18784cdb/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/fbfec400390eb1c1b1fb1c0c18784cdb/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kdamore/.gradle/caches/transforms-3/e675a01ac95c851f948143b511493f72/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdamore/.gradle/caches/transforms-3/9d0b0f0fcd0b8e3d21d703fd5c9ccf58/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdamore/.gradle/caches/transforms-3/9d0b0f0fcd0b8e3d21d703fd5c9ccf58/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdamore/.gradle/caches/transforms-3/9d0b0f0fcd0b8e3d21d703fd5c9ccf58/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

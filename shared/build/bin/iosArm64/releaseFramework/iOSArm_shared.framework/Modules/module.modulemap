@@ -1,0 +1,6 @@
+framework module iOSArm_shared {
+    umbrella header "iOSArm_shared.h"
+
+    export *
+    module * { export * }
+}

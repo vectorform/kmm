@@ -1,0 +1,77 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "c37a9b983607173aaa619ac75dddc039d218593258e73e88f59f5ba0cd0a13c2"
+build_start_time: [1647452819, 165055036]
+build_end_time: [1647452820, 736565113]
+inputs:
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/Constraint.swift"
+  : [1647451679, 649577379]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintAttributes.swift"
+  : [1647451679, 649805545]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintConfig.swift"
+  : [1647451679, 649970054]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintConstantTarget.swift"
+  : [1647451679, 650187969]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintDSL.swift"
+  : [1647451679, 650382518]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintDescription.swift"
+  : [1647451679, 650584459]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintDirectionalInsetTarget.swift"
+  : [1647451679, 650773286]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintDirectionalInsets.swift"
+  : [1647451679, 650948286]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintInsetTarget.swift"
+  : [1647451679, 651106834]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintInsets.swift"
+  : [1647451679, 651284933]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintItem.swift"
+  : [1647451679, 651483535]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintLayoutGuide+Extensions.swift"
+  : [1647451679, 651670455]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintLayoutGuide.swift"
+  : [1647451679, 651856422]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintLayoutGuideDSL.swift"
+  : [1647451679, 652211189]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintLayoutSupport.swift"
+  : [1647451679, 652522087]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintLayoutSupportDSL.swift"
+  : [1647451679, 652732372]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintMaker.swift"
+  : [1647451679, 652914047]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintMakerEditable.swift"
+  : [1647451679, 653083086]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintMakerExtendable.swift"
+  : [1647451679, 653276443]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintMakerFinalizable.swift"
+  : [1647451679, 653434753]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintMakerPriortizable.swift"
+  : [1647451679, 653621673]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintMakerRelatable.swift"
+  : [1647451679, 653816461]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintMultiplierTarget.swift"
+  : [1647451679, 653974056]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintOffsetTarget.swift"
+  : [1647451679, 654119968]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintPriority.swift"
+  : [1647451679, 654270172]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintPriorityTarget.swift"
+  : [1647451679, 654414415]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintRelatableTarget.swift"
+  : [1647451679, 654559612]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintRelation.swift"
+  : [1647451679, 654728889]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintView+Extensions.swift"
+  : [1647451679, 654921770]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintView.swift"
+  : [1647451679, 655065059]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/ConstraintViewDSL.swift"
+  : [1647451679, 655241727]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/Debugging.swift"
+  : [1647451679, 655445575]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/LayoutConstraint.swift"
+  : [1647451679, 655786514]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/LayoutConstraintItem.swift"
+  : [1647451679, 655944347]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/Typealiases.swift"
+  : [1647451679, 656242370]
+  ? "/Users/kdamore/Library/Developer/Xcode/DerivedData/iosApp-blfflmympxyqtzbtmeoyuqzdxwle/SourcePackages/checkouts/SnapKit/Source/UILayoutSupport+Extensions.swift"
+  : [1647451679, 656389713]
