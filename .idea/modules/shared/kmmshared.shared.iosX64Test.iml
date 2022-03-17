@@ -7,8 +7,8 @@
         <sourceSets>
           <sourceSet>kmmshared.shared.commonTest</sourceSet>
           <sourceSet>kmmshared.shared.iosX64Main</sourceSet>
-          <sourceSet>kmmshared.shared.iosMain</sourceSet>
           <sourceSet>kmmshared.shared.commonMain</sourceSet>
+          <sourceSet>kmmshared.shared.iosMain</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
         <externalSystemTestTasks>

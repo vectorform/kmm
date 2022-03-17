@@ -3,11 +3,8 @@
 This is a small example of using KMM using KTOR and a jokes API. This example does not demonstrate expect/actual classes that some projects may prefer to use for platform specific implementations.
 
 # Setup
-local.properties
-```sdk.dir=/Location/Of/Your/Android/sdk```
-e.g. ```/Users/yourUserName/Library/Android/sdk```
-
-gradle.properties
+Make sure ```org.gradle.java.home``` is set properly in gradle.properties.
+e.g. ```org.gradle.java.home=/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home```
 
 # Shared
 The shared code for both iOS and Android is located in the shared directory. Use commonMain for code that each platform can share. Use the respective platform directories for any platform specific code.
@@ -66,9 +63,15 @@ func getJoke() {
 
 # Gradle
 The gradle.kts file in the **shared** directory is the gradle file you should use for publishing frameworks and .aars.
+Run ```./gradlew publish``` to push to your maven repo.
 
 # Cocoapods
 For cocoapods, modify the shared.podspec file in **root**. After you commit, be sure to tag the release making sure it matches your podspec version.
+
+# Building Libraries
+To build the iOS Frameworks and Android .aar's, run ```./gradlew assemble```
+iOS Frameworks output = shared/build/bin
+Android .aar output = shared/outputs/aar
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

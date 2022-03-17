@@ -22,5 +22,7 @@
 hs_err_pid*
 
 *.dex
+.gradle
 .gradle/*
 androidApp/build/*
+local.properties
