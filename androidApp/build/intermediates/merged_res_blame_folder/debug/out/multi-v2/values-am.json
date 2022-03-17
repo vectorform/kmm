@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml",
+            "outputFile": "/Users/kdamore/Documents/KMM/kmm/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml",
             "map": [
                 {
                     "source": "/Users/kdamore/.gradle/caches/transforms-3/75089c3a69cf41a539466d3e5513f7ac/transformed/material-1.5.0/res/values-am/values-am.xml",

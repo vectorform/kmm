@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml",
+            "outputFile": "/Users/kdamore/Documents/KMM/kmm/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml",
             "map": [
                 {
                     "source": "/Users/kdamore/.gradle/caches/transforms-3/e2afe1b0e1d8bd4bc042209ea128b4b6/transformed/appcompat-1.4.1/res/values-in/values-in.xml",

@@ -2,6 +2,12 @@
 
 This is a small example of using KMM using KTOR and a jokes API. This example does not demonstrate expect/actual classes that some projects may prefer to use for platform specific implementations.
 
+# Setup
+local.properties
+```sdk.dir=/Location/Of/Your/Android/sdk```
+e.g. ```/Users/yourUserName/Library/Android/sdk```
+
+gradle.properties
 
 # Shared
 The shared code for both iOS and Android is located in the shared directory. Use commonMain for code that each platform can share. Use the respective platform directories for any platform specific code.

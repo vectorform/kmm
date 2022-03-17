@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kdamore/Documents/KMM/vectorform_kmm/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/kdamore/Documents/KMM/kmm/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/Users/kdamore/.gradle/caches/transforms-3/1923ace28c8e8e1c539d8af071fa5fc5/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
