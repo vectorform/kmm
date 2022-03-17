@@ -4,6 +4,7 @@ This is a small example of using KMM using KTOR and a jokes API. This example do
 
 # Setup
 Make sure ```org.gradle.java.home``` is set properly in gradle.properties.
+
 e.g. ```org.gradle.java.home=/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home```
 
 # Shared
@@ -70,7 +71,9 @@ For cocoapods, modify the shared.podspec file in **root**. After you commit, be 
 
 # Building Libraries
 To build the iOS Frameworks and Android .aar's, run ```./gradlew assemble```
+
 iOS Frameworks output = shared/build/bin
+
 Android .aar output = shared/outputs/aar
 
 ## License
